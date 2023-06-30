@@ -1,6 +1,7 @@
 # Saw-Difficulty-Curve-in-Match3
 Проект выполнен в рамках Тестового задания на позицию Product Analyst на матч3 проект.
-ТЗ и его решение модно найти по ссылке https://voracious-gallon-829.notion.site/Product-Analyst-1e5a8500b01c4f2e8296bf65305f4faf
+
+ТЗ и его решение можно найти по ссылке https://voracious-gallon-829.notion.site/Product-Analyst-1e5a8500b01c4f2e8296bf65305f4faf
 # **Задачи**:
 
 - Проанализируйте пилу с точки зрения баланса хард валюты и оттока.
